@@ -1,0 +1,6 @@
+This is project where the library management system is implemented.
+There is admin pannel as well as student portal.
+Install the django and pillow by 'pip install django'  & 'pip install pillow'.
+Migrate the database using 'python manage.py makemigrations' & ' python manage.py migrate'.
+create a superuser who will be logged in as admin.
+Run the server using 'python manage.py runserver'.
